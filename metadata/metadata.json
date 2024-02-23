@@ -1,0 +1,20 @@
+{
+    "name": "SmartCat",
+    "description": "For all cat lovers, you need this in your collection",
+    "image": "https://ipfs.io/ipfs/QmaP5tJD9rqUM6MfMkcfy4NAFSm1UgCh4YYyvcGcy7rWvg?filename=CatNFT.png",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Milk"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Long and Sharp"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      }
+    ]
+  }
+  
